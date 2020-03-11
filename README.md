@@ -40,12 +40,12 @@ The indexing stage will scan the text of all the documents and build a list of s
 <h2>4. Conclusion</h2>
 <p>Since In the implementation I have used pure python data structures and operations. There are many optimizations are left such as I have used list of list in-place of sparse matrix to represent the term document matrix (since document vector is sparse in nature). In the next blog I will optimize the performance of the search engine using right data structures and linear algebra libraries. Currently the search query time is 1.5 second with 1400 documents and 6000 vocab size which is very high as for the given data set.</p>
 
-<h3>5. References</h3>
+<h3>5. References</h3><p>
 i. Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin<br>
 ii. https://en.wikipedia.org/wiki/Dot_product<br>
 iii. https://en.wikipedia.org/wiki/Cosine_similarity<br>
 iv. https://en.wikipedia.org/wiki/Document-term_matrix<br>
-v. https://www.sciencedirect.com/topics/computer-science/information-retrieval-systems<br>
+v. https://www.sciencedirect.com/topics/computer-science/information-retrieval-systems<br><p>
 
 
   

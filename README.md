@@ -21,7 +21,7 @@ The indexing stage will scan the text of all the documents and build a list of s
 The indexing stage will scan the text of all the documents and build a list of search terms often called an index, but more correctly named a concordance(an alphabetical list of the words (especially the important ones) present in a text
 
 <b>overall process flow</b>
-![Image of process flow](https://github.com/ravisarojjnu/BasicSearchEngine/blob/master/images/flow.JPG)
+![Image of process flow](https://github.com/ravisarojjnu/BasicSearchEngine/blob/master/images/Untitled-1.jpg)
 
 <b>Indexing<b>
 ![Image of process flow of indexing](https://github.com/ravisarojjnu/BasicSearchEngine/blob/master/images/Indexing.jpg)
